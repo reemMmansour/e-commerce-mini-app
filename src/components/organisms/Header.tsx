@@ -40,7 +40,7 @@ const Header: React.FC = () => {
         <div className="header-content">
           {/* Logo */}
           <img
-            style={{ width: "50px", cursor: "pointer" }}
+            style={{ width: "80px", cursor: "pointer" }}
             src="assets/images/logo.jpg"
             alt="Logo"
             className="logo"
