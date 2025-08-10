@@ -1,0 +1,30 @@
+@import "../theme/theme-color-vars";
+
+.favorites-page {
+  padding: 24px;
+  .title {
+    margin-bottom: 2rem;
+    color: $primary-text-color;
+  }
+
+  // Empty states
+  .empty-favorites {
+    text-align: center;
+    padding: 48px 0;
+    .empty-btn {
+      border: 1px solid $secondary-color !important;
+      background: $white-color !important;
+      color: $secondary-color;
+      font-size: 12px;
+      font-weight: 500;
+      height: 32px;
+      margin-top: 1rem;
+      padding: 0px 10px;
+      border-radius: 8px;
+    }
+    .empty-btn:hover {
+      color: $secondary-color;
+      box-shadow: rgb(185 177 162) 0px 1px 4px;
+    }
+  }
+}

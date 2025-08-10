@@ -1,0 +1,54 @@
+@import "../theme/theme-color-vars";
+
+.header {
+  background: $white-color !important;
+  padding: 0 50px;
+  line-height: 0px !important;
+
+  .header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    height: 100%;
+    h3.logo {
+      color: $primary-color !important;
+      cursor: pointer !important;
+    }
+    .desktop-menu {
+      .btn-menu {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 0;
+        font-weight: 600;
+        width: -webkit-fit-content;
+        width: -moz-fit-content;
+        width: fit-content;
+        padding: 0;
+        color: $primary-color !important;
+      }
+      .btn-menu:hover {
+        background: $white-color !important;
+        border-bottom: 1px solid $primary-color !important;
+      }
+    }
+  }
+}
+
+.desktop-menu {
+  display: flex;
+}
+
+.mobile-menu {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .desktop-menu {
+    display: none;
+  }
+  .mobile-menu {
+    display: block;
+  }
+}

@@ -1,0 +1,52 @@
+@import "../theme/theme-color-vars";
+
+.card {
+  .ant-card-cover {
+    padding: 1px;
+  }
+  .ant-card-body {
+    padding: 10px;
+  }
+  .ant-card-meta-detail {
+    .ant-card-meta-title {
+      color: $primary-text-color !important;
+      margin-bottom: 3px;
+    }
+    .ant-card-meta-description {
+      display: flex;
+      justify-content: center;
+      align-items: start;
+      flex-direction: column;
+      .ant-typography {
+        font-weight: 500;
+        // font-size: 13px;
+        padding-top: 2px;
+      }
+    }
+  }
+  .card-btn {
+    border: 1px solid $secondary-color !important;
+    color: $secondary-color !important;
+    font-size: 12px;
+    height: 32px;
+    padding: 0px 10px;
+    border-radius: 8px;
+  }
+  .card-fav-btn {
+    border: 1px solid $secondary-color !important;
+    background: $white-color !important;
+    color: $secondary-color;
+    font-size: 12px;
+    height: 32px;
+    padding: 0px 10px;
+    border-radius: 8px;
+  }
+  .card-fav-btn:hover {
+    color: $secondary-color !important;
+    box-shadow: rgb(185 177 162) 0px 1px 4px;
+  }
+  .card-btn:hover {
+    color: $secondary-color !important;
+    box-shadow: rgb(185 177 162) 0px 1px 4px;
+  }
+}

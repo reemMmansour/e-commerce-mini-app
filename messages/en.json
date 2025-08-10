@@ -1,0 +1,53 @@
+{
+  "main": {
+    "title": "Welcome to Our Store",
+    "addToCart": "Add to Cart",
+    "viewDetails": "View Details",
+    "favorites": "Favorites",
+    "cart": "Cart",
+    "search": "Search products...",
+    "price": "Price",
+    "loading": "Loading...",
+    "error": "Error loading data",
+    "emptyCart": "Your cart is empty",
+    "emptyFavorites": "You have no favorite products",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "remove": "Remove",
+    "quantity": "Quantity",
+    "increase": "Increase quantity",
+    "decrease": "Decrease quantity",
+    "productDetails": "Product Details",
+    "description": "Description",
+    "inStock": "in Stock",
+    "outOfStock": "out Of Stock",
+    "menuItems1": "Household Appliances",
+    "menuItems2": "Clothing",
+    "menuItems3": "Shoes",
+    "menuItems4": "Toys",
+    "menuItems5": "Electronics",
+    "addToFavorites": "Add to Favorites",
+    "backToProducts": "Back to Products"
+  },
+  "Favorites": {
+    "title": "Favorites",
+    "description": "Your favorite products page",
+    "keyword1": "favorites",
+    "keyword2": "shopping",
+    "keyword3": "products"
+  },
+  "Cart": {
+    "title": "Shopping Cart",
+    "description": "Your shopping cart page",
+    "keyword1": "cart",
+    "keyword2": "buy",
+    "keyword3": "products"
+  },
+  "ProductDetails": {
+    "title": "Product Details",
+    "description": "Page to view product details",
+    "keyword1": "product",
+    "keyword2": "shopping",
+    "keyword3": "buy"
+  }
+}

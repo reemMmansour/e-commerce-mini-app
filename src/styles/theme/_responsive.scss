@@ -1,0 +1,29 @@
+/* Small mobile */
+@media (max-width: 576px) {
+  // Header
+  .header {
+    padding: 0px 20px;
+  }
+
+  // product details page
+  .product-details-page {
+    .product-info {
+      padding: 1rem 2rem !important;
+    }
+  }
+}
+
+/* Tablet */
+@media (max-width: 768px) {
+  // product details page
+  .product-details-page {
+    .product-info {
+      padding: 1rem 2rem !important;
+    }
+  }
+}
+
+/* Small laptop */
+@media (max-width: 992px) {
+
+}

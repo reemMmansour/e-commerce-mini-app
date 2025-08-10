@@ -1,0 +1,11 @@
+html[dir="ltr"] {
+  .product-details-page {
+    .back-prev-page {
+      .back-button {
+        svg {
+          transform: rotate(180deg);
+        }
+      }
+    }
+  }
+}

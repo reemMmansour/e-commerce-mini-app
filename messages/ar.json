@@ -1,0 +1,55 @@
+{
+  "main": {
+    "title": "مرحباً بكم في متجرنا",
+    "addToCart": "إضافة إلى السلة",
+    "viewDetails": "عرض التفاصيل",
+    "favorites": "المفضلة",
+    "cart": "السلة",
+    "search": "البحث عن منتجات...",
+    "price": "السعر",
+    "loading": "جاري التحميل...",
+    "error": "خطأ في تحميل البيانات",
+    "emptyCart": "سلة التسوق فارغة",
+    "emptyFavorites": "ليس لديك منتجات في المفضلة",
+    "total": "المجموع",
+    "checkout": "التقدم للدفع",
+    "remove": "إزالة",
+    "quantity": "الكمية",
+    "increase": "زيادة الكمية",
+    "decrease": "تقليل الكمية",
+    "productDetails": "تفاصيل المنتج",
+    "description": "الوصف",
+    "inStock": "متوفر",
+    "outOfStock": "غير متوفر",
+    "menuItems1": "أدوات منزلية",
+    "menuItems2": "ألبسة",
+    "menuItems3": "أحذية",
+    "menuItems4":"ألعاب",
+    "menuItems5": "إلكترونيات",
+    "addToFavorites": "إضافة إلى المفضلة",
+    "backToProducts": "العودة إلى المنتجات"
+  },
+  "Favorites": {
+    "title": "المفضلة",
+    "description": "صفحة المنتجات المفضلة الخاصة بك",
+    "keyword1": "المفضلة",
+    "keyword2": "تسوق",
+    "keyword3": "منتجات"
+  },
+  "Cart": {
+    "title": "سلة التسوق",
+    "description": "صفحة المنتجات في سلة التسوق الخاصة بك",
+    "keyword1": "سلة التسوق",
+    "keyword2": "شراء",
+    "keyword3": "منتجات"
+  },
+  
+  "ProductDetails": {
+    "title": "تفاصيل المنتج",
+    "description": "صفحة عرض تفاصيل المنتج",
+    "keyword1": "منتج",
+    "keyword2": "تسوق",
+    "keyword3": "شراء"
+  }
+
+}
